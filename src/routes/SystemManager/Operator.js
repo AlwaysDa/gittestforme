@@ -19,7 +19,7 @@ const columns = [
     dataIndex: 'no',
   },
   {
-    title: '姓名',
+    title: '姓名new',
     dataIndex: 'description',
   },
   {
