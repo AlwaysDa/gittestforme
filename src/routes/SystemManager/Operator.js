@@ -15,7 +15,7 @@ const status = ['离线', '预登陆', '登陆中', '异常'];
 const ad = ['管理员', '运营经理', '管理员1', '进件操作员'];
 const columns = [
   {
-    title: '用户名',
+    title: '用户名test for git',
     dataIndex: 'no',
   },
   {
